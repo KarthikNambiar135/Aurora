@@ -39,7 +39,7 @@ Experience the interactive product presentation and explore all the features of 
 ## 📸 Screenshots
 
 ### Hero Section
-![Hero Section](screenshots/hero-section.png)
+![Hero Section](screenshots/homepage.png)
 > Stunning hero section showcasing the Aurora One Smart Watch
 
 ### Product Features
